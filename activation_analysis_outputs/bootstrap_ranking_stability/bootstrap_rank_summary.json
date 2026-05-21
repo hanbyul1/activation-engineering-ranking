@@ -1,0 +1,52 @@
+[
+  {
+    "Technique": "Attention Entropy Analysis",
+    "Mean_Rank": 1.054,
+    "Rank_STD": 0.2984694289202833,
+    "Rank_Stability": 0.7701375001424026,
+    "Min_Rank": 1,
+    "Max_Rank": 4,
+    "Mean_Aggregate_Rank": 0.8262898829491486,
+    "Aggregate_Rank_STD": 0.08078255650688526
+  },
+  {
+    "Technique": "Layer-wise Activation Distance",
+    "Mean_Rank": 2.144,
+    "Rank_STD": 0.4596346375111432,
+    "Rank_Stability": 0.685102952684874,
+    "Min_Rank": 1,
+    "Max_Rank": 5,
+    "Mean_Aggregate_Rank": 0.4825900558178104,
+    "Aggregate_Rank_STD": 0.16221463247686305
+  },
+  {
+    "Technique": "CKA Similarity",
+    "Mean_Rank": 3.285,
+    "Rank_STD": 0.4666636904667,
+    "Rank_Stability": 0.6818195653850235,
+    "Min_Rank": 2,
+    "Max_Rank": 4,
+    "Mean_Aggregate_Rank": 0.4003627949631601,
+    "Aggregate_Rank_STD": 0.16155614305713356
+  },
+  {
+    "Technique": "Subspace-oriented Representational Analysis",
+    "Mean_Rank": 4.222,
+    "Rank_STD": 1.2209488113758087,
+    "Rank_Stability": 0.450258013547161,
+    "Min_Rank": 2,
+    "Max_Rank": 5,
+    "Mean_Aggregate_Rank": 0.2642365803730953,
+    "Aggregate_Rank_STD": 0.08720749670247165
+  },
+  {
+    "Technique": "Cosine Similarity",
+    "Mean_Rank": 4.295,
+    "Rank_STD": 0.4690149251356507,
+    "Rank_Stability": 0.680728277765904,
+    "Min_Rank": 3,
+    "Max_Rank": 5,
+    "Mean_Aggregate_Rank": 0.39489677885907154,
+    "Aggregate_Rank_STD": 0.16158153913050968
+  }
+]

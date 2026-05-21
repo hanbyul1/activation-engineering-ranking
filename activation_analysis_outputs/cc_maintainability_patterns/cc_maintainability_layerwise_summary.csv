@@ -1,0 +1,126 @@
+Technique,Layer,Layer_Mean_Restructuring_Signal
+Cosine Similarity,0,0.39761406898498536
+Cosine Similarity,1,0.2631072974205017
+Cosine Similarity,2,0.23714260697364808
+Cosine Similarity,3,0.11508687734603881
+Cosine Similarity,4,0.1277070790529251
+Cosine Similarity,5,0.15104353427886963
+Cosine Similarity,6,0.16501116037368774
+Cosine Similarity,7,0.19323405206203462
+Cosine Similarity,8,0.2206204664707184
+Cosine Similarity,9,0.24160832583904265
+Cosine Similarity,10,0.26252223670482633
+Cosine Similarity,11,0.27955409526824954
+Cosine Similarity,12,0.3022470772266388
+Cosine Similarity,13,0.31826826453208923
+Cosine Similarity,14,0.33701793432235716
+Cosine Similarity,15,0.3620965725183487
+Cosine Similarity,16,0.39485387146472933
+Cosine Similarity,17,0.43328531563282013
+Cosine Similarity,18,0.4670134237408638
+Cosine Similarity,19,0.4976818057894707
+Cosine Similarity,20,0.5182507982850075
+Cosine Similarity,21,0.5459489586949349
+Cosine Similarity,22,0.5816459831595421
+Cosine Similarity,23,0.5795939484238625
+Cosine Similarity,24,0.7818685832619667
+Layer-wise Activation Distance,0,0.6823136228322982
+Layer-wise Activation Distance,1,7.410783638954163
+Layer-wise Activation Distance,2,9.691542139053345
+Layer-wise Activation Distance,3,12.113029880523682
+Layer-wise Activation Distance,4,14.454497289657592
+Layer-wise Activation Distance,5,17.04630696296692
+Layer-wise Activation Distance,6,19.18981873512268
+Layer-wise Activation Distance,7,21.76671215057373
+Layer-wise Activation Distance,8,24.046566333770752
+Layer-wise Activation Distance,9,25.941254558563234
+Layer-wise Activation Distance,10,28.033574657440184
+Layer-wise Activation Distance,11,30.046217708587648
+Layer-wise Activation Distance,12,32.461434326171876
+Layer-wise Activation Distance,13,34.99449535369873
+Layer-wise Activation Distance,14,37.2220325088501
+Layer-wise Activation Distance,15,40.85312969207764
+Layer-wise Activation Distance,16,45.5322566986084
+Layer-wise Activation Distance,17,51.58474269866943
+Layer-wise Activation Distance,18,59.02950653076172
+Layer-wise Activation Distance,19,66.44040824890136
+Layer-wise Activation Distance,20,73.92661056518554
+Layer-wise Activation Distance,21,84.08499893188477
+Layer-wise Activation Distance,22,97.77723526000976
+Layer-wise Activation Distance,23,115.81804725646973
+Layer-wise Activation Distance,24,331.8602969360352
+Attention Entropy Analysis,0,0.0008646965026855469
+Attention Entropy Analysis,1,0.009661941528320313
+Attention Entropy Analysis,2,0.007147808074951172
+Attention Entropy Analysis,3,0.005707321166992188
+Attention Entropy Analysis,4,0.006822433471679688
+Attention Entropy Analysis,5,0.007594985961914063
+Attention Entropy Analysis,6,0.0067244434356689455
+Attention Entropy Analysis,7,0.0069373130798339845
+Attention Entropy Analysis,8,0.006317949295043946
+Attention Entropy Analysis,9,0.005710210800170899
+Attention Entropy Analysis,10,0.005578489303588867
+Attention Entropy Analysis,11,0.005497474670410157
+Attention Entropy Analysis,12,0.004565601348876953
+Attention Entropy Analysis,13,0.004200382232666016
+Attention Entropy Analysis,14,0.004294853210449218
+Attention Entropy Analysis,15,0.0045566272735595706
+Attention Entropy Analysis,16,0.005010557174682617
+Attention Entropy Analysis,17,0.004602041244506836
+Attention Entropy Analysis,18,0.004448013305664062
+Attention Entropy Analysis,19,0.004365339279174805
+Attention Entropy Analysis,20,0.004479656219482422
+Attention Entropy Analysis,21,0.005321321487426758
+Attention Entropy Analysis,22,0.006703767776489258
+Attention Entropy Analysis,23,0.009425134658813476
+Attention Entropy Analysis,24,0.01380599021911621
+Subspace-oriented Representational Analysis,0,0.7878729739040137
+Subspace-oriented Representational Analysis,1,0.9372121031070129
+Subspace-oriented Representational Analysis,2,0.8927175471698865
+Subspace-oriented Representational Analysis,3,0.8657926968112588
+Subspace-oriented Representational Analysis,4,0.8584559117257595
+Subspace-oriented Representational Analysis,5,0.8598776751570404
+Subspace-oriented Representational Analysis,6,0.8826297858916223
+Subspace-oriented Representational Analysis,7,0.8743429648131132
+Subspace-oriented Representational Analysis,8,0.8818400117568672
+Subspace-oriented Representational Analysis,9,0.8851392598543316
+Subspace-oriented Representational Analysis,10,0.8803115938510746
+Subspace-oriented Representational Analysis,11,0.8924420377332717
+Subspace-oriented Representational Analysis,12,0.8941052205301822
+Subspace-oriented Representational Analysis,13,0.8919917396898381
+Subspace-oriented Representational Analysis,14,0.8851055431971326
+Subspace-oriented Representational Analysis,15,0.8755620255321265
+Subspace-oriented Representational Analysis,16,0.8783620528504252
+Subspace-oriented Representational Analysis,17,0.884210355496034
+Subspace-oriented Representational Analysis,18,0.8884015350881964
+Subspace-oriented Representational Analysis,19,0.8898144728690386
+Subspace-oriented Representational Analysis,20,0.8916091859992593
+Subspace-oriented Representational Analysis,21,0.8949120080471039
+Subspace-oriented Representational Analysis,22,0.8966124806087464
+Subspace-oriented Representational Analysis,23,0.8963034065440297
+Subspace-oriented Representational Analysis,24,0.9080401859944687
+CKA Similarity,0,0.2136462072691905
+CKA Similarity,1,0.022518659277000638
+CKA Similarity,2,0.008273576071161727
+CKA Similarity,3,0.0009975957180720406
+CKA Similarity,4,0.0011545337371644704
+CKA Similarity,5,0.0019355685728772176
+CKA Similarity,6,0.0020073094003169576
+CKA Similarity,7,0.004238233531241432
+CKA Similarity,8,0.006494109593462662
+CKA Similarity,9,0.006759089379373116
+CKA Similarity,10,0.009323477549168046
+CKA Similarity,11,0.010342818503759916
+CKA Similarity,12,0.011831508579366417
+CKA Similarity,13,0.01504786365100935
+CKA Similarity,14,0.01677668954908935
+CKA Similarity,15,0.022749040115802317
+CKA Similarity,16,0.0323119330096061
+CKA Similarity,17,0.051574645248851934
+CKA Similarity,18,0.09076584640477564
+CKA Similarity,19,0.14284563540029316
+CKA Similarity,20,0.20298200485218665
+CKA Similarity,21,0.32935799133134513
+CKA Similarity,22,0.6079186040546508
+CKA Similarity,23,0.856172433179999
+CKA Similarity,24,0.9406442415983084
